@@ -20,7 +20,8 @@ This repository contains the implementation of a hybrid deep learning model comb
 | `qcnn3_model.pth`         | Saved hybrid model file (PyTorch + PennyLane). |
 | `qcnn3_results.zip`       | Compressed folder containing evaluation plots and metrics. |
 | `scaler3.pkl`             | Saved MinMaxScaler object used during preprocessing. |
-| `umpa3_model.pkl`         | UMAP dimensionality reduction model used to reduce feature space. |
+| `umap3_model.pkl`         | UMAP dimensionality reduction model used to reduce feature space. |
+| `other models.zip`        | Jupyter notebooks that had accuracy that qcnn3.ipynb. |
 
 ---
 
