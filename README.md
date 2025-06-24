@@ -1,9 +1,5 @@
 # Sleep-Posture-Recognition-using-QCNN
-A simple system that classifies three sleep postures using QCNN
 
-Certainly! Here’s the complete, ready-to-copy `README.md` file for your GitHub repository:
-
-```markdown
 # 🛏️ Hybrid Quantum-Classical Neural Network for Sleep Posture Classification
 
 This repository contains the implementation of a hybrid deep learning model combining classical neural networks and quantum computing to classify human sleep postures. It targets healthcare applications—particularly for patients with limited mobility, elderly individuals, and post-operative care—by enabling accurate posture detection using pressure sensor data.
@@ -142,11 +138,6 @@ This architecture demonstrated strong performance in classifying postures while 
 📧 Email: kavyasrivj271@gmail.com  
 🏫 Institution: [SSN College of Engineering]  
 
----
-
-## 🛡️ License
-
-This project is released under the MIT License. See `LICENSE` for more information.
 
 ---
 
