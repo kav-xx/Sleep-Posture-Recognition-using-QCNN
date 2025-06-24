@@ -139,9 +139,4 @@ This architecture demonstrated strong performance in classifying postures while 
 🏫 Institution: [SSN College of Engineering]  
 
 
----
-
-## ⚛️ Built with quantum curiosity and classical logic to make healthcare smarter. 🚀
-
-```
 
